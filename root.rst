@@ -1,7 +1,7 @@
 root.rst
 --------
 
-:doc:`サブ01 <./sub/01>`
+:doc:`サブ01 <sphinx:./sub/01>`
      サブ01
 
 .. toctree::
