@@ -1,7 +1,7 @@
 index.rst
 ---------
 
-:doc:`サブ01 <./sub/01>`
+:doc:`サブ01 <./sub/01.rst>`
      サブ01
 
 .. toctree::
