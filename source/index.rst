@@ -12,6 +12,7 @@ index.rst
 
 メモ :`<./sub/01>` メモ
 
+メモ ::`<./sub/01>` メモ
 
 .. toctree::
    :maxdepth: 1
