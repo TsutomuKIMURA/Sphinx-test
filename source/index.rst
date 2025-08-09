@@ -10,9 +10,9 @@ index.rst
 
 メモ `<./sub/01.rst>`_ メモ
 
-メモ :`<./sub/01.rst>`_ メモ
+メモ :`サブ01 <./sub/01.rst>`_ メモ
 
-メモ ::`<./sub/01.rst>`_ メモ
+メモ ::`サブ01 <./sub/01.rst>`_ メモ
 
 .. toctree::
    :maxdepth: 1
