@@ -8,7 +8,7 @@ index.rst
 
 .. :ref:`文章01`
 
-:ref:` **文章01** <文章01>`
+:ref:`**文章01** <文章01>`
 
 .. toctree::
    :maxdepth: 1
