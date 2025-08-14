@@ -6,6 +6,8 @@ index.rst
 
 `01.rst <./sub/01.rst>`_ 
 
+:ref:`文章01`
+
 .. toctree::
    :maxdepth: 1
    :caption: サブ
